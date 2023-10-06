@@ -48,3 +48,4 @@ Accuracy achieved on the validation dataset formed from the dataset:
 The report of this project can be found on the following link:
 https://drive.google.com/file/d/18xyLXuRlXh7rVW_m7scLAA7ArKv2O-24/view?usp=sharing
 
+A previous version with Vanila FNN and CNN implementation on images of MEL spectrograms can be found in this [repository](https://github.com/achyutk/Music-Genre-Prediction)
